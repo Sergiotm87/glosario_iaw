@@ -21,6 +21,9 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 * **Entrega continúa (EC)**:
 
 ## F
+
+* **Fetch(git)**: La acción fetch actualiza el repositorio local bajándose los datos del repositorio remoto a tu repositorio local sin actualizarlo, es decir, se guarda una copia del repositorio remoto en tu local.
+
 ## G
 
 * **GitHub**: GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git.
